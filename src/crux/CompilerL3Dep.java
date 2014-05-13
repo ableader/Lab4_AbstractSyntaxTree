@@ -4,7 +4,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.io.PrintStream;
 
-public class Compiler {
+public class CompilerL3Dep {
     public static String studentName = "TODO: Your Name";
     public static String studentID = "TODO: Your 8-digit id";
     public static String uciNetID = "TODO: uci-net id";
